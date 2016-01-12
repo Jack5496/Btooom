@@ -1,0 +1,6 @@
+name: Btooom
+main: com.jack.btooom.Core
+version: 1.0
+commands:
+  btooom:
+    usage: /btooom help
